@@ -1,0 +1,10 @@
+* Supplemental Bill of Materials
+#+RESULTS: supplemental-parts
+| Item | Quantity | PartNumber    | Vendor  | Description                              |
+|------+----------+---------------+---------+------------------------------------------|
+|    1 |        1 | VFP014-1R0-ND | digikey | HEATSHRK VFP876 0.25 inch X 1 inch 50PCS |
+|    2 |        1 | 1030-1001-ND  | digikey | SLEEVING 0.125 inch X 225 feet BLACK     |
+|    3 |        1 | 1030-1333-ND  | digikey | SLEEVING 0.125 inch X 225 feet RED       |
+|    4 |        1 | 1030-1332-ND  | digikey | SLEEVING 0.125 inch X 225 feet PURPLE    |
+|    4 |        1 | 1030-1331-ND  | digikey | SLEEVING 0.125 inch X 225 feet GREEN     |
+|    4 |        1 | 1030-1334-ND  | digikey | SLEEVING 0.125 inch X 225 feet YELLOW    |
