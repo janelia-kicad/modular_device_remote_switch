@@ -1,0 +1,11 @@
+# Created 2018-05-21 Mon 11:32
+* Bill of Materials
+#+RESULTS: pcb-parts
+| Item | Reference(s)                    | Quantity | PartNumber  | Vendor   | Description                         |
+|------+---------------------------------+----------+-------------+----------+-------------------------------------|
+|    1 | CABLE1                          |        1 | A120-100-ND | digikey  | MULTI-PAIR 2COND 22AWG 100FT        |
+|    2 | PIN1 PIN2                       |        2 | WM2515-ND   | digikey  | CONN TERM MALE 22-24AWG GOLD        |
+|    3 | PLUG1                           |        1 | WM2533-ND   | digikey  | CONN HOUSING MALE 2POS .100         |
+|    4 | RECPT1 RECPT2                   |        2 | WM2800-ND   | digikey  | CONN HOUSING 2POS .100 SINGLE       |
+|    5 | SOCKET1 SOCKET2 SOCKET3 SOCKET4 |        4 | WM2512-ND   | digikey  | CONN TERM FEMALE 22-24AWG GOLD      |
+|    6 | SW1                             |        1 | 6944K11     | mcmaster | Pendant Switch Washdown Push Button |

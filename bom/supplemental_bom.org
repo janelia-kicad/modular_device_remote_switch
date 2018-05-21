@@ -6,5 +6,5 @@
 |    2 |        1 | 1030-1001-ND  | digikey | SLEEVING 0.125 inch X 225 feet BLACK     |
 |    3 |        1 | 1030-1333-ND  | digikey | SLEEVING 0.125 inch X 225 feet RED       |
 |    4 |        1 | 1030-1332-ND  | digikey | SLEEVING 0.125 inch X 225 feet PURPLE    |
-|    4 |        1 | 1030-1331-ND  | digikey | SLEEVING 0.125 inch X 225 feet GREEN     |
-|    4 |        1 | 1030-1334-ND  | digikey | SLEEVING 0.125 inch X 225 feet YELLOW    |
+|    5 |        1 | 1030-1331-ND  | digikey | SLEEVING 0.125 inch X 225 feet GREEN     |
+|    6 |        1 | 1030-1334-ND  | digikey | SLEEVING 0.125 inch X 225 feet YELLOW    |

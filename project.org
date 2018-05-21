@@ -13,11 +13,45 @@
 
 * Assembly Instructions
 
-  - Cut the bottom trace on the Teensy board that connects the 5V pads according
-    to these instructions [[https://www.pjrc.com/teensy/external_power.html]].
-  - Solder through hole header pins into every Teensy 0.1 inch header hole.
-  - Solder surface mount header pins onto the bottom of the Teensy making sure
-    they are properly aligned.
-  - Solder surface mount and through hole components onto the pcb.
-  - Solder the Teensy into the pcb making sure it is properly aligned.
-  - Connect header jumper to RED LED enable pins.
+  - Choose 0.125 inch expandable sleeving color and cut to 18 inches.
+  - Expand sleeving and slip over the two pendant switch wires, pushing it over
+    the wires until the sleeve is within 0.5 inches from the switch.
+  - Slip one 0.25 inch x 1 inch heat shrink tube over the wires and expanded
+    sleeveing and push it as close to the switch as possible so it is covering
+    one fraying end of the sleeving.
+  - Slip another 0.25 inch x 1 inch heat shrink tube over the wires and expanded
+    sleeving and push it until the center of the heat shrink tube is about 1.5
+    inches from the ends of the switch wires so it is covering the second
+    fraying end of the sleeving.
+  - Use a heat gun to shrink both heat shrink tubes on the sleeving and switch
+    wires.
+  - Use wire cutter to trim the two switch wires to the same length.
+  - Use wire stripper to remove 0.1 inches of insulation from each of the two
+    switch wires.
+  - Use crimp tool to crimp one socket onto the end of each switch wire, using a
+    total of two sockets.
+  - Insert each of the two sockets into one receptacle connector, either wire
+    can be placed into the pin 1 position, the placement position is not
+    imporant.
+  - Cut the 2-conductor cable to the desired length and remove 2 inches of the
+    cable jacket from each of the two ends of the cable.
+  - Slip a 0.25 inch x 1 inch heat shrink tube over each end of the cable jacket
+    and use a heat gun to shrink it into place.
+  - Use wire cutter to trim the two cable wires to the same length on each side
+    of the cable.
+  - Use wire stripper to remove 0.1 inches of insulation from each end of the
+    two wires in the cable.
+  - One one end of the cable, use crimp tool to crimp one socket onto the end of
+    each the two cable wires, using a total of two sockets.
+  - Insert each of the two sockets into one receptacle connector, either wire
+    can be placed into the pin 1 position, the placement position is not
+    imporant.
+  - One the other end of the cable, use crimp tool to crimp one pin onto the end
+    of each the two cable wires, using a total of two pins.
+  - Insert each of the two pins into one plug connector, either wire
+    can be placed into the pin 1 position, the placement position is not
+    imporant.
+  - Insert the receptacle connector attached to the switch into the plug
+    connector on the cable.
+  - Insert the receptacle connector attached to the cable into a two-pin BTN
+    connector on the modular device.
