@@ -20,7 +20,7 @@
 -   **License:** Open-Source Hardware
 -   **URL:** <https://github.com/janelia-kicad/modular_device_remote_switch>
 -   **Author:** Peter Polidoro
--   **Email:** peterpolidoro@gmail.com
+-   **Email:** peter@polidoro.io
 
 
 <a id="org86312a0"></a>
